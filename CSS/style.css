@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url(study.jpg);
+  background-image: url(/assets/study.jpg);
   background-color: rgba(0, 0, 0, 0.5);
   background-size: cover;
   background-repeat: no-repeat;
